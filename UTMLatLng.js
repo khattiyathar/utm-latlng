@@ -270,6 +270,12 @@ method.setEllipsoid = function (name)
         this.a = 6378155;
         this.eccSquared = 0.006693422;
         break;
+
+        case 'Myanmar Datum 2000':
+        this.a = 6377276.345;
+        this.eccSquared = 0.0066378480321;
+        break;
+
         case 'South American 1969':
         this.a = 6378160;
         this.eccSquared = 0.006694542;
