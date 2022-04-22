@@ -37,15 +37,16 @@ var utm=new utmObj('Everest');
 17. Modified Airy
 18. Modified Everest
 19. Modified Fischer 1960
-20. South American 1969
-21. WGS 60
-22. WGS 66
-23. WGS 72
+20. Myanmar Datum 2000
+21. South American 1969
+22. WGS 60
+23. WGS 66
 24. WGS 72
-25. ED50
-26. WGS 84
-27. EUREF89
-28. ETRS89
+25. WGS 72
+26. ED50
+27. WGS 84
+28. EUREF89
+29. ETRS89
 
 ### `utm.convertUtmToLatLng(easting, northing, zoneNum, zoneLetter);`
 
